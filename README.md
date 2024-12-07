@@ -1,6 +1,3 @@
-# Vital_NMap_Commandsa_list
-Vital_NMap_Commandsa_list
-
 
 # Nmap Command Examples
 
